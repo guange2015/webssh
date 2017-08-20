@@ -1,5 +1,5 @@
-webssh for java
-====================
+webssh with java implementation
+===========================
 
 
 WebSSH is a simple web project which support login linux server with explorer.
